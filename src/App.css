@@ -1,0 +1,35 @@
+.parent {
+  background-color: rgba(168, 205, 237, 0.386);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  border: 2px solid;
+}
+.child {
+  height: 100%;
+  border: 2px solid white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+.watchImg {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+  object-fit: contain;
+}
+.title {
+  text-align: center;
+  color: antiquewhite;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Seiko Presage Cocktail Time",
+    "price": 450,
+    "currency": "USD",
+    "real_image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/s/e/seiko-presage-srpe43j1-large_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rolex Submariner",
+    "price": 8500,
+    "currency": "USD",
+    "real_image": "https://watchchest.com/media/amasty/webp/catalog/product/cache/80fa0d800d61bcb937d25ad90f8e907f/3/8/38558_jpg.webp"
+  },
+  {
+    "id": 3,
+    "name": "Omega Speedmaster",
+    "price": 5200,
+    "currency": "USD",
+    "real_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjcMHiBFgKXKae_eXvptBzZdOSDEGXXZP4w&s"
+  },
+  {
+    "id": 4,
+    "name": "Tag Heuer Carrera",
+    "price": 3800,
+    "currency": "USD",
+    "real_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAuSFuYtWD2KyBRJUunq3N49uTXDTdE1CRw&s"
+  },
+  {
+    "id": 5,
+    "name": "Casio G-Shock",
+    "price": 150,
+    "currency": "USD",
+    "real_image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GM/gm2/gm-2100-1a/assets/GM-2100-1A.png.transform/main-visual-sp/image.png"
+  },
+  {
+    "id": 6,
+    "name": "Audemars Piguet Royal Oak",
+    "price": 28000,
+    "currency": "USD",
+    "real_image": "https://www.bijouxmedusa.com/cdn/shop/products/41mm-audemars-piguet-royal-oak-chronograph-26320or-montre-or-rose-bijoux-medusa-homme-quebec-canada-489_800x.jpg?v=1637167869"
+  },
+  {
+    "id": 7,
+    "name": "Tissot Le Locle",
+    "price": 600,
+    "currency": "USD",
+    "real_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbS65QmwOyrpZ2phtJKJaQ5b-VUcNghkmyhg&s"
+  },
+  {
+    "id": 8,
+    "name": "Breitling Navitimer",
+    "price": 7000,
+    "currency": "USD",
+    "real_image": "https://www.breitling.com/media/image/3/gallery_square_1080/asset-version-b8d6c284f0/pb02301a1b1a1-navitimer-b02-chronograph-41-cosmonaute-soldier-2.webp"
+  },
+  {
+    "id": 9,
+    "name": "Patek Philippe Nautilus",
+    "price": 35000,
+    "currency": "USD",
+    "real_image": "https://celebritywatchs.in/wp-content/uploads/2024/03/IMG_9455-scaled.jpg.webp"
+  },
+  {
+    "id": 10,
+    "name": "Hamilton Khaki Field",
+    "price": 575,
+    "currency": "USD",
+    "real_image": "https://monochrome-watches.com/wp-content/uploads/2023/08/Hamilton-Khaki-Field-Titanium-Automatic-38mm-42mm-Titanium-bracelet-Featured.jpg"
+  }
+]
